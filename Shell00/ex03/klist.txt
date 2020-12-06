@@ -1,0 +1,5 @@
+Credentials cache: API:BB8B94A5-7AC6-4C33-AE0A-2997641BD9C5
+        Principal: kypark@42SEOUL.KR
+
+  Issued                Expires               Principal
+Jun 30 14:42:53 2020  Jul  1 00:42:47 2020  krbtgt/42SEOUL.KR@42SEOUL.KR
